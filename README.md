@@ -24,13 +24,18 @@ Dự án được xây dựng với mục tiêu thực hành, học tập và r�
 
 ## Cách chạy dự án
 1. Tải code về máy:
-   ```bash
+```bash
    git clone https://github.com/ntainguyenit/php-todo-list.git
+```
 2. Mở thư mục dự án:
+```bash
    cd php-todo-list/Lab
+```
 3. Chạy server PHP:
+```bash
    php -S localhost:8000
-4. Mở trình duyệt và truy cập:
+```
+5. Mở trình duyệt và truy cập:
+```bash
    http://localhost:8000/Todolist.php
-
-
+```
